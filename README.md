@@ -12,7 +12,7 @@ $ pip isntall lolcat
 
 $ pip2 install requests
 
-$ git clone (ulr)
+$ git clone (👆ulr yang ada diatas👆)
 
 $ Is
 
@@ -25,3 +25,5 @@ $ cd spamcall
 $ Is
 
 $ python2 call.py
+
+*SEMOGA MEMBANTU*
