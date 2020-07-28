@@ -12,7 +12,7 @@ $ pip isntall lolcat
 
 $ pip2 install requests
 
-$ git clone (👆ulr yang ada diatas👆)
+$ git clone (👆ulr yang ada diatas)
 
 $ Is
 
