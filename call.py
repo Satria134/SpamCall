@@ -41,7 +41,7 @@ def bersih():
 def balik():
     d = input("\033[1;97mCoba lagi? (y/t): ")
     if d == "y":
-       subprocess.call("python spam.py",shell=True)
+       subprocess.call("python call.py",shell=True)
     elif d == "t":
          print ("\033[1;91mExit")
          os.system("exit")
