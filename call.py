@@ -3,7 +3,7 @@ import requests
 import subprocess
 from requests import post
 
-#Subscribe Channel Youtube Satria Rangers
+#SUBSCRIBE CHANNEL YOUTUBE SATRIA RANGERS
 #MASUKAN NOMOR DI KOLOM VARIABLE URL
 #MASUKAN NOMOR TANPA 62/0
 #CONTOH 8938373772
@@ -50,7 +50,7 @@ subprocess.call("figlet SpamCall |lolcat",shell=True)
 banner = """
 \033[1;97m
 ==================================================
-Recoder  \033[1;91m:\033[1;96mSatriaRangers\033[1;97m
+Recoder  \033[1;91m:\033[1;96mSATRIARANGERS\033[1;97m
 Website \033[1;91m:\033[1;96mhttps://termux.id\033[1;97m
 Whatsapp  \033[1;91m:\033[1;92m+6282278198xxx\033[1;97m
 ==================================================
